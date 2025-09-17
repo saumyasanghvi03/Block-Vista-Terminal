@@ -1,0 +1,10 @@
+streamlit
+kiteconnect
+pandas
+plotly
+websocket-client
+requests
+newspaper3k
+snscrape
+scikit-learn
+yfinance
