@@ -1,10 +1,11 @@
 streamlit
-kiteconnect
 pandas
+pandas-ta
 plotly
-websocket-client
-requests
-newspaper3k
-snscrape
+pytz
+vaderSentiment
+feedparser
+python-dateutil
+kiteconnect
+streamlit-autorefresh
 scikit-learn
-yfinance
